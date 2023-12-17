@@ -1,0 +1,23 @@
+*{
+    margin:  0;
+}
+
+html::-webkit-scrollbar{
+    display: none;
+}
+
+#button_txt{
+    text-shadow: 2px 2px 10px white;
+}
+
+#mainc_txt{
+    font-family: sans-serif;
+}
+
+#main_btn{
+    box-shadow: 2px 25px 50px 0.4px rgba(255, 68, 0, 0.356);
+}
+
+#main_p{
+    font-size: 1.2em;
+}
