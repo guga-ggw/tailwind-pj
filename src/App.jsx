@@ -5,6 +5,7 @@ import mainImg from './assets/main-il.png';
 function App() {
   return (
     <>
+    <div className="w-full h-full"></div>
     </>
   );
 }
